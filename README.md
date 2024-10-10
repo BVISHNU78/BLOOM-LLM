@@ -165,4 +165,4 @@ https://images.datacamp.com/image/upload/v1705691049/image3_f103a8c688.png
 Estimated carbon emissions: (Forthcoming.)
 
 Estimated electricity usage: (Forthcoming.)
-
+https://huggingface.co/bigscience/bloom
